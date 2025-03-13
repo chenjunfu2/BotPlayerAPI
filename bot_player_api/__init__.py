@@ -74,7 +74,7 @@ def on_server_stop(server, return_code):
 	global online_players
 	global set_lock
 	with set_lock:
-		online_players = []
+		online_players = set()
 
 def player_joined(server, player, ip):
 	global online_players

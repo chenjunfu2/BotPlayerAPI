@@ -1,11 +1,11 @@
 {
   "id": "bot_player_api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "BotPlayerAPI",
   "description": {
     "en_us": "Bot Player API",
     "zh_cn": "Bot 玩家 API"
   },
   "author": "Chenjunfu2a",
-  "link": "NULL"
+  "link": "https://github.com/chenjunfu2/botplayerapi"
 }
