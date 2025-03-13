@@ -1,0 +1,2 @@
+# BotPlayerAPI
+用于区分mc服务器假人和普通玩家的玩家列表API
